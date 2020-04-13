@@ -21,6 +21,6 @@ An unsupervised approach to visualize and assess the sensor network of a smart s
 **Broad area**: Ubiquitous Computing<br>
 
 **Description**: <br>
-In an organization, individuals prefer to form various formal and informal groups for mutual interactions. Therefore, ubiquitous identification of such groups and understanding their dynamics are important to monitor activities, behaviours and well-being of the individuals. Meeting groups are the groups where co-located group members occasionally interact with each other. Precisely, given a population of subjects U, we define a meeting group G[t,t+T] ⊆ U for the time period [t, t+T ] as the collection of co-located individuals {u ∈ U} sharing similar context. For Details [click here](https://skysnigdha.github.io/groupsense).<br>
+In an organization, individuals prefer to form various formal and informal groups for mutual interactions. Therefore, ubiquitous identification of such groups and understanding their dynamics are important to monitor activities, behaviours and well-being of the individuals. Meeting groups are the groups where co-located group members occasionally interact with each other. Precisely, given a population of subjects U, we define a meeting group G[t,t+T] ⊆ U for the time period [t, t+T ] as the collection of co-located individuals {u ∈ U} sharing similar context. For details [click here](https://skysnigdha.github.io/groupsense).<br>
 
 ---
