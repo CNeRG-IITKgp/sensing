@@ -24,3 +24,11 @@ An unsupervised approach to visualize and assess the sensor network of a smart s
 In an organization, individuals prefer to form various formal and informal groups for mutual interactions. Therefore, ubiquitous identification of such groups and understanding their dynamics are important to monitor activities, behaviours and well-being of the individuals. Meeting groups are the groups where co-located group members occasionally interact with each other. In this project, we develop a lightweight, yet near-accurate, methodology, called GroupSense, to identify various interacting groups based on collective sensing through users’ smartphones. For details [click here](https://skysnigdha.github.io/groupsense).<br>
 
 ---
+
+**Contributor**: _Debasree Das_ <br>
+**Title**: Impact of Surrounding Vehicles' Action on Self-Vehicle Driving Quality<br>
+
+**Broad area**: Transport<br>
+
+**Description**: <br>
+In this project, we have considered the actions of the surrounding vehicles, such as stopping/braking/accelerating/decelerating and infrastructural road conditions to show how the following vehicle's driving quality is affected by these factors apart from personality traits.
